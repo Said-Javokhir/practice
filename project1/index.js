@@ -4,3 +4,4 @@ var  name;
 var lastName;
 var middleName;
 var myName;
+var yourName;
