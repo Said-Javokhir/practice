@@ -5,4 +5,4 @@ var lastName;
 var middleName;
 var myName;
 var yourName;
-var herName;
+var hisName;
